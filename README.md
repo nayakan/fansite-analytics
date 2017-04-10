@@ -1,10 +1,10 @@
 # Table of Contents
-1. [Challenge Summary](README.md#challenge-summary)
+1. [Summary](README.md#summary)
 2. [Download Data](README.md#download-data)
 3. [Description of Data](README.md#description-of-data)
 4. [Testing output format](README.md#testing-your-directory-structure-and-output-format)
 
-# Challenge Summary
+#Summary
 
 Picture yourself as a backend engineer for a NASA fan website that generates a large amount of Internet traffic data. Your challenge is to perform basic analytics on the server log file, provide useful metrics, and implement basic security measures. 
 
